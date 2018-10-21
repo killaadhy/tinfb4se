@@ -145,7 +145,7 @@ Kai Schwark
 
 ### Table of Contents
 
-1. [Introduction](#1. )         
+1. [Introduction](#1. )
 
 1.1 [Purpose](#1.1 )     
 
