@@ -145,7 +145,9 @@ Kai Schwark
 
 ### Table of Contents
 
-1. [Introduction](#1. )         
+1. [Introduction](#1. )
+
+1. [Introduction](#introduction)
 
 1.1 [Purpose](#1.1 )     
 
@@ -226,6 +228,8 @@ Kai Schwark
 Software Requirements Specification
 
 # <a name="1. ">1. Introduction</a>
+
+## 1. Introduction
 
 ## <a name="1.1 ">1.1 Purpose</a>
 
